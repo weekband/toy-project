@@ -62,8 +62,8 @@ import com.kh.toy.common.http.HttpConnector;
 		Map<String, Object> keywordGroup = new LinkedHashMap<String, Object>();
 		List<String> keywords = new ArrayList<String>();
 	
-		keywords.add("스프링");
-		keywords.add("스프링부트");
+		keywords.add("GIT");
+		keywords.add("GITHUB");
 		
 		keywordGroup.put("groupName","자바");
 		keywordGroup.put("keywords",keywords);
